@@ -1,6 +1,6 @@
 # Worm Game
 
-An implementation of a famous game best known as [Snake](https://en.wikipedia.org/wiki/Snake_(video_game_genre\)).
+An implementation of a famous game best known as [Snake](https://en.wikipedia.org/wiki/Snake_(video_game_genre)).
 
 ## Description
   - The worm grows with every eaten apple (red squares)
